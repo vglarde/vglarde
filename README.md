@@ -6,8 +6,8 @@
 Currently working in Editorial (Managing Editor and Translator), but AI is taking over! So, looking to make a move towards a career in Tech.
 
 * Project Team Leader. 
-* Working remotely in a multicultural environement (current team spread in six countries).
-* Past experience (10+ years ago) in developping websites in PHP/MySQL.
+* Working remotely in a multicultural environment (current team spread in six countries).
+* Past experience (10+ years ago) in developing websites in PHP/MySQL.
 
 Spoken languages:
 - 🇫🇷 French
