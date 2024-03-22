@@ -11,7 +11,7 @@ I am currently enrolled in a [CoGrammar Skills Bootcamp](https://skills.cogramma
 
 Machine learning models are fascinating. I love new challenges, and I am looking forward to starting a new career in Tech as **Data Engineer**. 
 
-Data Science is a new to me, but I have a previous experience with coding. Back in 2006, I taught myself PHP/MySQL, and worked as Web Developer for 6+ years. 
+Data Science is new to me, but I have a previous experience with coding. Back in 2006, I taught myself PHP/MySQL, and worked as Web Developer for 6+ years. 
 
 ### Current employment
 * Managing Editor and Translator.
