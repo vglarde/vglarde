@@ -5,7 +5,7 @@
 
 **Currently working in Editorial, but AI is taking over!**
 
-In all aspects of my job, I can see how rapidly AI is gaining ground, from Machine Translation tools (such as *Google Translate*, *Systran Translate*, or *DeepL*) which are rapidly improving, to AI-Assisted Content Creation (like *ChatGPT*).
+In all aspects of my job (Managing Editor), I can see how rapidly AI is gaining ground, from Machine Translation tools (such as *Google Translate*, *Systran Translate*, or *DeepL*) which are rapidly improving, to AI-Assisted Content Creation (like *ChatGPT*).
 
 I am currently enrolled in a [CoGrammar Skills Bootcamp](https://skills.cogrammar.com/) with *HyperionDev* (March-June 2024), studying Data Science and Python. 
 
